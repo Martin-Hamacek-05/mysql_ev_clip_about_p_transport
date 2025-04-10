@@ -1,5 +1,9 @@
-# Program na evidenci záběrů o MHD - schéma pro MySQL databázi
-MySQL databáze k systému - Program na evidenci záběrů o MHD
+# Evidence záběrů o MHD - schéma databáze pro MySQL server
+
+#účel
+Schéma databáze pro program Evidence záběrů o MHD
+
+#schéma databáze
 
 varianty:
 
