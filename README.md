@@ -1,9 +1,10 @@
 # Evidence záběrů o MHD - schéma databáze pro MySQL server
 
-#účel
+# účel
 Schéma databáze pro program Evidence záběrů o MHD
 
-#schéma databáze
+# schéma databáze
+![image info](schema_database.png)
 
 varianty:
 
