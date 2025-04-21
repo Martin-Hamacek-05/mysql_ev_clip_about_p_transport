@@ -4,7 +4,7 @@
 Schéma databáze pro program Evidence záběrů o MHD
 
 # schéma databáze
-![image info](schema_database.svg)
+![image info](databasee.png)
 
 varianty:
 
